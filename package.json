@@ -1,0 +1,23 @@
+{
+  "name": "majclits",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "majclits": "./index.js"
+  },
+  "type":"module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4",
+    "install": "^0.13.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3"
+  }
+}
